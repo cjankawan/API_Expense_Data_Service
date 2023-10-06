@@ -1,0 +1,301 @@
+expense_id,expense_type,amount,expense_date,payment_method
+1,Groceries,35.93,2023-11-30,Credit Card
+2,Transport,69.34,2023-03-23,Cash
+3,Entertainment,60.73,2023-12-22,Cash
+4,Rent,876.79,2023-12-30,Cash
+5,Rent,828.98,2023-11-28,Cash
+6,Entertainment,70.52,2023-09-25,Credit Card
+7,Utilities,,2023-10-28,Credit Card
+8,Groceries,21.84,2023-04-14,Cash
+9,Rent,809.41,2023-11-29,Cash
+10,Groceries,99.98,2023-04-04,Cash
+11,Groceries,46.99,2023-01-30,Cash
+12,Entertainment,10.51,2023-01-18,Cash
+13,Entertainment,29.11,2023-11-28,Cash
+14,Transport,43.65,2023-12-27,Cash
+15,Transport,58.11,2023-06-15,Credit Card
+16,Utilities,54.6,2023-09-13,Credit Card
+17,Utilities,58.6,2023-07-28,Cash
+18,Rent,827.67,2023-09-30,Credit Card
+19,Rent,865.3,2023-06-21,Credit Card
+20,,74.23,2023-01-10,Cash
+21,Groceries,17.85,2023-07-07,Credit Card
+22,Rent,709.43,2023-06-28,Credit Card
+23,Groceries,35.8,2023-08-29,Credit Card
+24,Rent,734.29,2023-07-19,Cash
+25,Transport,27.34,2023-04-04,Cash
+26,Groceries,55.34,2023-01-06,Cash
+27,Rent,745.15,2023-07-21,Credit Card
+28,Groceries,17.88,2023-04-04,Cash
+29,Transport,8.19,2023-08-12,Credit Card
+30,Groceries,55.5,2023-03-26,Cash
+31,Entertainment,96.2,2023-01-30,Credit Card
+32,Rent,898.95,2023-07-30,Credit Card
+33,Utilities,48.8,2023-09-08,Cash
+34,Transport,7.58,2023-02-04,Credit Card
+35,Entertainment,47.87,2023-11-01,Credit Card
+36,Entertainment,62.93,2023-12-06,Cash
+37,Entertainment,55.72,2023-07-28,Cash
+38,Utilities,87.84,2023-09-22,Credit Card
+39,Transport,23.15,2023-01-15,Credit Card
+40,Groceries,27.09,2023-07-29,Cash
+41,,5.34,2023-07-24,Credit Card
+42,Rent,895.19,2023-09-11,Credit Card
+43,Transport,9.45,2023-06-28,Cash
+44,Entertainment,95.9,2023-08-18,Cash
+45,Rent,829.08,2023-07-30,
+46,Transport,94.15,2023-07-02,Credit Card
+47,Transport,93.75,2023-09-20,Credit Card
+48,Groceries,23.8,2023-08-06,Credit Card
+49,Utilities,87.68,2023-02-26,Credit Card
+50,Utilities,52.63,2023-03-08,Cash
+51,Utilities,70.06,2023-12-26,Credit Card
+52,Entertainment,30.81,2023-05-07,Cash
+53,Transport,73.63,2023-08-04,Credit Card
+54,Transport,25.07,2023-04-02,Credit Card
+55,Rent,863.8,2023-07-20,Cash
+56,Entertainment,56.5,2023-03-24,Credit Card
+57,Groceries,29.74,2023-04-08,Credit Card
+58,Utilities,85.96,2023-02-06,Cash
+59,Groceries,31.97,2023-01-01,Cash
+60,Utilities,86.03,2023-05-31,Credit Card
+61,Rent,762.87,2023-03-08,Cash
+62,Groceries,55.97,2023-03-28,Cash
+63,Entertainment,31.68,2023-01-01,Cash
+64,Entertainment,78.37,2023-07-09,Cash
+65,Transport,53.03,2023-03-27,Credit Card
+66,Groceries,50.57,2023-05-12,Credit Card
+67,Entertainment,,2023-01-20,Cash
+68,Groceries,58.55,2023-05-19,Cash
+69,Groceries,86.91,2023-12-17,Cash
+70,Utilities,52.03,2023-10-01,Credit Card
+71,,16.89,2023-08-20,Credit Card
+72,Entertainment,71.51,2023-03-22,Cash
+73,,47.38,2023-11-07,Cash
+74,Entertainment,26.61,2023-01-29,Credit Card
+75,Entertainment,60.27,2023-10-02,Credit Card
+76,Entertainment,15.53,2023-12-02,Credit Card
+77,Utilities,80.45,2023-04-09,Cash
+78,Transport,67.86,2023-08-27,Credit Card
+79,Entertainment,38.39,2023-12-29,Cash
+80,Groceries,79.16,2023-10-15,Cash
+81,Transport,93.69,2023-05-24,Cash
+82,Groceries,73.72,2023-06-18,Cash
+83,Groceries,7.37,2023-09-07,Cash
+84,Groceries,22.81,2023-03-08,Credit Card
+85,Rent,847.38,2023-06-02,Credit Card
+86,Entertainment,49.43,2023-07-13,Credit Card
+87,Utilities,93.65,2023-10-11,Cash
+88,Groceries,81.21,2023-08-26,Credit Card
+89,Utilities,49.88,2023-10-06,Credit Card
+90,Rent,888.29,2023-06-23,Cash
+91,Groceries,48.42,2023-09-07,Credit Card
+92,Entertainment,95.65,2023-07-21,Cash
+93,Rent,819.9,2023-10-31,Credit Card
+94,Entertainment,42.85,2023-09-07,Credit Card
+95,Entertainment,94.12,2023-06-25,Cash
+96,Groceries,14.08,2023-05-26,Credit Card
+97,Rent,789.52,2023-07-09,Cash
+98,Entertainment,92.29,2023-01-08,Cash
+99,Groceries,55.07,2023-11-20,Cash
+100,Rent,862.99,2023-02-21,Credit Card
+101,Utilities,68.62,2023-12-04,Cash
+102,Utilities,48.66,2023-08-20,Credit Card
+103,Rent,771.84,2023-12-09,Credit Card
+104,Entertainment,45.48,2023-08-10,Credit Card
+105,Entertainment,9.03,2023-03-25,Cash
+106,Entertainment,16.15,2023-06-06,Credit Card
+107,Utilities,58.02,2023-06-28,Cash
+108,Utilities,55.45,2023-06-18,Credit Card
+109,Entertainment,89.03,2023-06-29,Credit Card
+110,Transport,27.63,2023-02-20,Credit Card
+111,Utilities,71.38,2023-02-07,Cash
+112,Groceries,29.92,2023-10-04,Cash
+113,Utilities,65.17,2023-02-10,Cash
+114,Utilities,70.25,2023-07-15,Cash
+115,Entertainment,39.64,2023-09-09,Cash
+116,Rent,736.09,2023-06-13,Credit Card
+117,Entertainment,38.74,2023-09-10,Cash
+118,Rent,825.52,2023-06-19,Credit Card
+119,Entertainment,85.01,2023-10-25,Credit Card
+120,Rent,728.25,2023-01-01,Cash
+121,Transport,99.83,2023-05-17,Cash
+122,Transport,94.06,2023-07-05,Cash
+123,Entertainment,28.82,2023-07-31,Cash
+124,Transport,50.72,2023-07-28,Cash
+125,Transport,89.5,2023-10-29,Cash
+126,Transport,24.81,2023-11-12,Credit Card
+127,Rent,840.23,2023-03-15,Cash
+128,Entertainment,6.1,2023-07-20,Cash
+129,Groceries,27.37,2023-12-09,Credit Card
+130,Rent,847.9,2023-08-23,Credit Card
+131,Groceries,92.39,2023-09-04,Credit Card
+132,Rent,847.41,2023-08-06,Cash
+133,Rent,774.21,2023-04-05,Credit Card
+134,Utilities,78.73,2023-09-29,Credit Card
+135,Transport,33.17,2023-09-02,Cash
+136,Entertainment,35.06,2023-12-12,Credit Card
+137,Transport,47.99,2023-12-28,Credit Card
+138,Rent,804.6,2023-01-30,Credit Card
+139,Utilities,61.65,2023-05-08,Cash
+140,Rent,738.51,2023-04-23,Credit Card
+141,Utilities,91.96,2023-05-17,Cash
+142,Entertainment,40.62,2023-07-12,Credit Card
+143,Utilities,80.39,2023-01-18,Cash
+144,Rent,808.25,2023-12-28,Cash
+145,Transport,20.51,2023-05-21,Cash
+146,Groceries,57.98,2023-12-16,
+147,Entertainment,72.36,2023-10-31,Credit Card
+148,Rent,756.13,2023-05-20,Cash
+149,Utilities,53.41,2023-10-30,Cash
+150,Entertainment,84.87,2023-04-20,Cash
+151,Rent,792.91,2023-04-20,Cash
+152,Utilities,96.81,2023-08-08,Cash
+153,Utilities,98.2,2023-11-17,Credit Card
+154,Utilities,50.48,2023-04-18,Cash
+155,Entertainment,21.69,2023-05-26,Cash
+156,Groceries,97.49,2023-01-29,Credit Card
+157,Entertainment,49.35,2023-03-19,Cash
+158,Transport,14.03,2023-03-24,Credit Card
+159,Entertainment,35.78,2023-09-05,Credit Card
+160,Transport,98.04,2023-11-20,Cash
+161,Groceries,16.34,2023-09-16,Credit Card
+162,,713.35,2023-02-24,Cash
+163,Entertainment,61.86,2023-11-11,Credit Card
+164,Utilities,52.13,2023-01-29,Credit Card
+165,Entertainment,84.02,2023-12-06,Credit Card
+166,Rent,886.29,2023-08-08,Credit Card
+167,Rent,723.72,2023-10-27,Credit Card
+168,Utilities,96.57,2023-07-30,Cash
+169,Transport,39.84,2023-02-24,Cash
+170,Utilities,52.71,2023-06-19,Cash
+171,Transport,70.32,2023-03-27,Credit Card
+172,Utilities,48.95,2023-08-13,Credit Card
+173,Entertainment,65.05,2023-05-06,Credit Card
+174,Utilities,56.87,2023-08-18,Credit Card
+175,Transport,33.28,2023-08-18,Cash
+176,Groceries,27.73,2023-05-15,Cash
+177,Groceries,19.92,2023-03-26,Cash
+178,Transport,55.64,2023-09-06,Credit Card
+179,Entertainment,10.93,2023-11-26,Cash
+180,Utilities,89.11,2023-06-30,Cash
+181,Groceries,15.97,2023-09-28,Credit Card
+182,Entertainment,74.23,2023-11-03,Cash
+183,Transport,92.86,2023-10-18,Credit Card
+184,Utilities,80.57,2023-01-29,Credit Card
+185,Rent,706.29,2023-01-07,Credit Card
+186,Transport,59.9,2023-03-05,Credit Card
+187,Rent,831.37,2023-09-08,Cash
+188,Rent,730.42,2023-08-25,Cash
+189,Rent,899.4,2023-07-17,Cash
+190,Utilities,94.28,2023-03-24,Cash
+191,Transport,46.74,2023-01-10,Cash
+192,Utilities,60.41,2023-08-28,Cash
+193,Entertainment,13.67,2023-01-28,Credit Card
+194,Utilities,57.8,2023-06-22,Credit Card
+195,Transport,26.28,2023-07-24,Cash
+196,Groceries,24.76,2023-12-27,Credit Card
+197,Transport,16.15,2023-03-01,Credit Card
+198,Groceries,80.99,2023-07-17,Credit Card
+199,Rent,771.37,2023-07-10,Cash
+200,Groceries,62.94,2023-09-10,Credit Card
+201,Transport,75.43,2023-03-20,Cash
+202,Utilities,88.96,2023-07-01,Cash
+203,Entertainment,69.54,2023-06-27,Cash
+204,Groceries,87.21,2023-03-31,Cash
+205,Groceries,42.89,2023-06-17,Cash
+206,Rent,753.01,2023-02-27,Cash
+207,Entertainment,11.63,2023-04-02,Cash
+208,Groceries,60.03,2023-10-10,Cash
+209,Groceries,99.56,2023-04-06,Credit Card
+210,Utilities,80.2,2023-02-12,Credit Card
+211,Groceries,74.03,2023-01-17,Cash
+212,Rent,839.69,2023-09-28,Cash
+213,,10.29,2023-07-24,Credit Card
+214,Groceries,47.08,2023-05-23,Credit Card
+215,Transport,64.02,2023-11-17,Cash
+216,Groceries,49.83,2023-03-21,Credit Card
+217,Groceries,61.11,2023-04-01,Cash
+218,Transport,67.09,2023-08-29,Cash
+219,Utilities,74.29,2023-09-25,Cash
+220,Transport,83.19,2023-11-07,Credit Card
+221,Rent,859.99,2023-03-14,Credit Card
+222,Groceries,24.03,2023-12-29,Credit Card
+223,Entertainment,65.62,2023-12-12,Credit Card
+224,Groceries,46.36,2023-07-28,Credit Card
+225,Groceries,20.81,2023-07-07,Cash
+226,Rent,835.87,2023-11-13,Credit Card
+227,Transport,17.92,2023-07-29,Cash
+228,Utilities,70.42,2023-06-06,Cash
+229,Transport,32.01,2023-05-15,Cash
+230,Utilities,54.95,2023-10-22,Credit Card
+231,,843.3,2023-03-01,Cash
+232,Groceries,75.57,2023-08-26,Credit Card
+233,Groceries,75.06,2023-06-29,Credit Card
+234,Rent,842.53,2023-05-05,Credit Card
+235,Entertainment,36.22,2023-08-07,Credit Card
+236,Rent,718.07,2023-05-21,Credit Card
+237,Utilities,68.96,2023-06-07,Credit Card
+238,Utilities,53.17,2023-08-19,Credit Card
+239,,73.35,2023-07-13,Cash
+240,Entertainment,40.66,2023-03-28,Cash
+241,Groceries,25.56,2023-07-22,Cash
+242,Utilities,86.58,2023-03-07,Cash
+243,Transport,13.75,2023-04-29,Cash
+244,Transport,10.36,2023-02-02,Credit Card
+245,Groceries,63.22,2023-04-27,Cash
+246,Transport,,2023-09-24,Cash
+247,Rent,801.11,2023-10-21,Credit Card
+248,Groceries,29.13,2023-05-22,Credit Card
+249,Groceries,16.89,2023-05-20,Cash
+250,Utilities,50.76,2023-05-28,Credit Card
+251,Rent,809.71,2023-05-10,Credit Card
+252,Transport,74.17,2023-07-28,Credit Card
+253,Groceries,12.72,2023-10-13,Cash
+254,Entertainment,53.22,2023-12-25,Credit Card
+255,Groceries,78.84,2023-05-09,Cash
+256,Groceries,87.88,2023-10-08,Credit Card
+257,Rent,737.9,2023-01-02,Credit Card
+258,Utilities,65.26,2023-12-18,Credit Card
+259,Rent,855.72,2023-03-13,Cash
+260,Entertainment,32.22,2023-01-01,Cash
+261,Utilities,75.35,2023-09-11,Cash
+262,Transport,79.18,2023-05-24,Cash
+263,Utilities,56.41,2023-03-11,Cash
+264,Transport,84.66,,Cash
+265,Groceries,13.14,2023-09-09,Cash
+266,Entertainment,62.32,2023-11-19,Cash
+267,Utilities,53.43,2023-04-14,Credit Card
+268,Transport,16.49,2023-02-08,Cash
+269,Entertainment,89.9,2023-04-09,Credit Card
+270,Groceries,63.49,2023-11-13,Cash
+271,Groceries,55.1,2023-12-16,Cash
+272,Groceries,99.94,2023-03-20,Cash
+273,Rent,862.28,2023-01-16,Credit Card
+274,Groceries,,2023-01-12,Cash
+275,Transport,84.67,2023-11-25,Credit Card
+276,Transport,63.49,2023-06-09,Credit Card
+277,Transport,85.16,2023-07-18,Credit Card
+278,Utilities,43.41,2023-05-01,Credit Card
+279,Rent,898.08,2023-05-11,Credit Card
+280,Groceries,30.48,2023-01-23,Cash
+281,Rent,839.94,2023-04-18,Cash
+282,Transport,51.79,2023-09-30,Cash
+283,Rent,720.35,2023-06-16,Cash
+284,Entertainment,47.96,2023-02-09,Credit Card
+285,Rent,814.19,2023-02-08,Credit Card
+286,Transport,22.3,2023-09-18,Cash
+287,Rent,861.93,2023-10-12,Cash
+288,Entertainment,14.1,2023-01-25,Credit Card
+289,Utilities,70.95,2023-02-23,Credit Card
+290,Groceries,66.3,2023-10-11,Credit Card
+291,Groceries,52.91,2023-07-26,Credit Card
+292,Groceries,11.24,2023-02-27,Credit Card
+293,Transport,5.98,2023-06-10,Credit Card
+294,Entertainment,72.73,2023-04-01,Credit Card
+295,Transport,18.03,2023-12-03,Credit Card
+296,Rent,868.92,2023-10-28,Credit Card
+297,Transport,63.23,2023-12-18,Credit Card
+298,Groceries,83.8,2023-07-12,Cash
+299,Transport,45.55,2023-05-17,Credit Card
+300,Rent,700.2,2023-07-26,Cash
