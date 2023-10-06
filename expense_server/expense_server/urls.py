@@ -25,3 +25,4 @@ urlpatterns = [
     path('monthly_expenses/', views.monthly_expenses,name="monthly_expenses"),
     path('detailed_breakdown/', views.detailed_breakdown,name="detailed_breakdown"),
 ]
+
