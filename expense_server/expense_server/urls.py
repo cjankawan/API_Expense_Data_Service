@@ -21,7 +21,7 @@ from server_app import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index,name="index"),
-    path('expense_by_type/', views.expense_by_type,name="expense_by_type"),
+    path('expenses_by_type/', views.expenses_by_type,name="expenses_by_type"),
     path('monthly_expenses/', views.monthly_expenses,name="monthly_expenses"),
     path('detailed_breakdown/', views.detailed_breakdown,name="detailed_breakdown"),
 ]

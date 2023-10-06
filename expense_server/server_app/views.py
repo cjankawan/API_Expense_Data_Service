@@ -22,7 +22,7 @@ def index(request):
     return render(request, 'index.html')
 
 @api_view(['GET'])
-def expense_by_type(request):
+def expenses_by_type(request):
     amount_by = {}
     for i in data:
         data_type = i['expense_type']
